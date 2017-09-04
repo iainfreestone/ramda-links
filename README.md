@@ -4,7 +4,9 @@
 
 [What Function Should I Use](https://github.com/ramda/ramda/wiki/What-Function-Should-I-Use%3F)
 
-# Articles (Newest to Oldest)
+# Articles
+
+## General
 
 [Use a little bit of FP (17th August 2017)](https://glebbahmutov.com/blog/use-a-little-bit-of-fp/)
 
@@ -50,8 +52,6 @@
 
 [I Think Ramda Might Be Better Than Lodash or Underscore (3rd April 2016)](http://funkyjavascript.com/i-think-ramda-might-be-better-than-lodash-or-underscore/)
 
-
-
 [An Intro to Functional Programming Concepts in JavaScript (23rd October 2015)](https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-b0650773139c)
 
 [Refactoring Towards Functional Programming in JavaScript (14th June 2015)](http://rebootjeff.github.io/blog/2015/06/14/refactoring-towards-functional-programming-in-javascript/)
@@ -72,7 +72,7 @@
 
 [Introducing Ramda (16th May 2014)](http://buzzdecafe.github.io/code/2014/05/16/introducing-ramda)
 
-# Ramda with React and Redux
+## Ramda with React and Redux
 
 [Less Redux Boilerplate with Union Types (2nd September 2017)](https://codeburst.io/less-redux-boilerplate-with-union-types-3d5fd6acb53c)
 
@@ -94,7 +94,7 @@
 
 [Using Ramda With Redux (31st February 2016)](http://randycoulman.com/blog/2016/02/16/using-ramda-with-redux/)
 
-# Ramda with Angular
+## Ramda with Angular
 
 [Using Ramda.js with Angular 2+ / Angular CLI (5th August 2017)](https://medium.com/@jacobedawson/using-ramda-js-with-angular-2-angular-cli-9580f64c1794)
 
