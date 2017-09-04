@@ -34,6 +34,8 @@
 
 [Demystifying functional programming with Ramda (15th February 2017)](https://izifortune.com/demystifying-functional-programming-with-ramda/)
 
+[Ramda.js in Real World Productions (23rd January 2017)](https://medium.com/@erwai/ramda-js-in-real-world-productions-1f088e40a560)
+
 [Some Functional Javascript Goodness (17th November 2016)](http://blog.howarddierking.com/2016/11/17/some-functional-javascript-goodness/)
 
 [An Introduction Into Lenses In JavaScript (17th November 2016)](https://medium.com/javascript-inside/an-introduction-into-lenses-in-javascript-e494948d1ea5)
