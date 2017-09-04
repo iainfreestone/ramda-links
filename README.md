@@ -38,4 +38,8 @@
 
 [Using Ramda With Redux (31st February 2016)](http://randycoulman.com/blog/2016/02/16/using-ramda-with-redux/)
 
+# General Functional Programming
+
+[Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
+
 
