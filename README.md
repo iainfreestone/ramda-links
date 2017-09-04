@@ -72,15 +72,25 @@
 
 [Using Ramda With Redux (31st February 2016)](http://randycoulman.com/blog/2016/02/16/using-ramda-with-redux/)
 
+[An Intro to Functional Programming Concepts in JavaScript (23rd October 2015)](https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-b0650773139c)
+
 [Refactoring Towards Functional Programming in JavaScript (14th June 2015)](http://rebootjeff.github.io/blog/2015/06/14/refactoring-towards-functional-programming-in-javascript/)
 
 [Write Reacts components in a functional way with Ramda and PointFree (15th April 2015)](http://blog.codeprototype.com/2015/04/15/write-reacts-component-in-functional-way-with-ramda-and-pointfree-md/)
 
 [Streaming Logs with Transducers and Ramda (24th March 2015)](http://simplectic.com/blog/2015/ramda-transducers-logs/)
 
+[Tacit Ramda (8th March 2015)](https://medium.com/@bobiblazeski/tacit-ramda-c914775ff4b1)
+
 [A Practical Ramda example: Scraping](https://james-forbes.com/?/posts/ramdaScrape)
 
 [Practical Functional Javascript with Ramda 17th December 2014](https://developer.telerik.com/featured/practical-functional-javascript-ramda/)
+
+[Lodash to Ramda example (15th August 2014)](https://glebbahmutov.com/blog/lodash-to-ramda-example/)
+
+[The Philosophy of Ramda](http://fr.umio.us/the-philosophy-of-ramda/)
+
+[Introducing Ramda (16th May 2014)](http://buzzdecafe.github.io/code/2014/05/16/introducing-ramda)
 
 # Ramda Libaries/Tools
 
@@ -91,6 +101,12 @@
 [babel-plugin-ramda](https://www.npmjs.com/package/babel-plugin-ramda)
 
 [ramda-destruct](https://github.com/raine/ramda-destruct)
+
+[ramda-lens](https://github.com/ramda/ramda-lens)
+
+# Videos
+
+[Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA&app=desktop)
 
 # Ramda Debugging
 
@@ -119,5 +135,7 @@
 # General Functional Programming
 
 [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
+
+[Awesome FP JS](https://github.com/stoeffel/awesome-fp-js)
 
 
