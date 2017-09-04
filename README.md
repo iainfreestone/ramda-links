@@ -56,6 +56,8 @@
 
 [An Intro to Functional Programming Concepts in JavaScript (23rd October 2015)](https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-b0650773139c)
 
+[Practical ramda - functional programming examples (27th August 2015)](https://macwright.org/2015/08/27/practical-ramda.html)
+
 [Refactoring Towards Functional Programming in JavaScript (14th June 2015)](http://rebootjeff.github.io/blog/2015/06/14/refactoring-towards-functional-programming-in-javascript/)
 
 [Write Reacts components in a functional way with Ramda and PointFree (15th April 2015)](http://blog.codeprototype.com/2015/04/15/write-reacts-component-in-functional-way-with-ramda-and-pointfree-md/)
