@@ -36,13 +36,19 @@
 
 [Functional Programming in JS with Ramda: Arrays and Objects (9th April 2017)](https://medium.com/@arecvlohe/functional-programming-in-js-with-ramda-arrays-and-objects-468653f24d19)
 
+[Converging to Point Free (30th March 2017)](http://theonlywinningmove.net/2017/03/30/converging-to-point-free/)
+
 [Let’s Learn: Composing React Components With Ramda (1st March 2017)](https://medium.com/let-s-learn/lets-learn-composing-react-components-with-ramda-5db457997554)
 
 [Functional Workaholism (28th February 2017)](https://codepen.io/brekk/post/functional-workaholism) 
 
+[Using Ramdas Evolve in Redux Reducers to Create New State (25th February 2017)](https://www.jernejsila.com/2017/02/25/using-ramda-evolve-redux-reducers-creating-new-state/)
+
 [Demystifying functional programming with Ramda (15th February 2017)](https://izifortune.com/demystifying-functional-programming-with-ramda/)
 
 [React + Ramda What is Ramda? (2017)](https://www.burntcaramel.com/blog/2017/react-ramda/)
+
+[Some Functional Javascript Goodness (17th November 2016)](http://blog.howarddierking.com/2016/11/17/some-functional-javascript-goodness/)
 
 [An Introduction Into Lenses In JavaScript (17th November 2016)](https://medium.com/javascript-inside/an-introduction-into-lenses-in-javascript-e494948d1ea5)
 
@@ -56,9 +62,25 @@
 
 [Functional Components with React stateless functions and Ramda (4th July 2016)](https://medium.com/@mirkomariani/functional-components-with-react-stateless-functions-and-ramda-e83e54fcd86b)
 
+[Hands-on Functional Programming with Ramda.js (15th June 2016)](https://www.sitepoint.com/functional-programming-with-ramda/)
+
+[Thinking in Ramda: Getting Started (24th May 2016)](http://randycoulman.com/blog/2016/05/24/thinking-in-ramda-getting-started/)
+
+[Achieving point-free JavaScript with R.converge / _.over (12th April 2016)](https://medium.com/@nicoespeon/achieving-point-free-javascript-with-r-converge-overargs-94060fd0ed7a)
+
 [I Think Ramda Might Be Better Than Lodash or Underscore (3rd April 2016)](http://funkyjavascript.com/i-think-ramda-might-be-better-than-lodash-or-underscore/)
 
 [Using Ramda With Redux (31st February 2016)](http://randycoulman.com/blog/2016/02/16/using-ramda-with-redux/)
+
+[Refactoring Towards Functional Programming in JavaScript (14th June 2015)](http://rebootjeff.github.io/blog/2015/06/14/refactoring-towards-functional-programming-in-javascript/)
+
+[Write Reacts components in a functional way with Ramda and PointFree (15th April 2015)](http://blog.codeprototype.com/2015/04/15/write-reacts-component-in-functional-way-with-ramda-and-pointfree-md/)
+
+[Streaming Logs with Transducers and Ramda (24th March 2015)](http://simplectic.com/blog/2015/ramda-transducers-logs/)
+
+[A Practical Ramda example: Scraping](https://james-forbes.com/?/posts/ramdaScrape)
+
+[Practical Functional Javascript with Ramda 17th December 2014](https://developer.telerik.com/featured/practical-functional-javascript-ramda/)
 
 # Ramda Libaries/Tools
 
@@ -67,6 +89,8 @@
 [prettycats](https://github.com/seancannon/prettycats)
 
 [babel-plugin-ramda](https://www.npmjs.com/package/babel-plugin-ramda)
+
+[ramda-destruct](https://github.com/raine/ramda-destruct)
 
 # Ramda Debugging
 
