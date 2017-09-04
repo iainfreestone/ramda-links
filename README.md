@@ -4,9 +4,9 @@
 
 [What Function Should I Use](https://github.com/ramda/ramda/wiki/What-Function-Should-I-Use%3F)
 
-# Articles
+# Articles (Newest to Oldest)
 
-[Less Redux Boilerplate with Union Types](https://codeburst.io/less-redux-boilerplate-with-union-types-3d5fd6acb53c)
+[Less Redux Boilerplate with Union Types (2nd September 2017)](https://codeburst.io/less-redux-boilerplate-with-union-types-3d5fd6acb53c)
 
 [The 4R framework - 3 libraries to use in your React app (25th August 2017)](http://arianv.com/post/the-4r-framework-3-libraries-to-use-in-your-react-app/)
 
