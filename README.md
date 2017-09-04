@@ -92,6 +92,10 @@
 
 [Introducing Ramda (16th May 2014)](http://buzzdecafe.github.io/code/2014/05/16/introducing-ramda)
 
+# Videos
+
+[Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA&app=desktop)
+
 # Ramda Libaries/Tools
 
 [Ramda Suggest](https://github.com/domtronn/ramda-suggest)
@@ -103,10 +107,6 @@
 [ramda-destruct](https://github.com/raine/ramda-destruct)
 
 [ramda-lens](https://github.com/ramda/ramda-lens)
-
-# Videos
-
-[Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA&app=desktop)
 
 # Ramda Debugging
 
