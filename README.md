@@ -20,4 +20,8 @@
 
 [Demystifying functional programming with Ramda (15th February 2017)](https://izifortune.com/demystifying-functional-programming-with-ramda/)
 
+[Stop Writing for-loops (compose) (16th August 2016)](https://medium.com/@wpcarro/stop-writing-for-loops-compose-7d4ac507bd36)
+
+[Why Functional Programming? (22nd July 2016)](https://medium.com/the-functional-programmer/why-functional-programming-fp-8740b41b6f11)
+
 
