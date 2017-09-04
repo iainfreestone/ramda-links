@@ -22,9 +22,15 @@
 
 [Compute Even Digits — Fun with Ramda pt.1 (22nd July 2017)](https://medium.com/@tomaskonrady/compute-even-digits-fun-with-ramda-pt-1-17fd41d382d2)
 
+[Using functional lenses to modify objects by example (22nd July 2017)](https://glebbahmutov.com/blog/lenses/)
+
 [The beauty in Partial Application, Currying, and Function Composition (18th July 2017)](https://hackernoon.com/the-beauty-in-partial-application-currying-and-function-composition-d885bdf0d574)
 
 [Ramda — R.adjust (3rtd July 2017)](https://medium.com/@kyletilman/ramda-r-adjust-b69a575274fa)
+
+[Immutable Deep State Updates in React with Ramda.js (27th May 2017)](https://vanslaars.io/post/setstate-lenses/)
+
+[Ramda for reactive streams (14th April 2017)](https://glebbahmutov.com/blog/ramda-for-reactive-streams/)
 
 [Functional Programming in JS with Ramda: Arrays and Objects (9th April 2017)](https://medium.com/@arecvlohe/functional-programming-in-js-with-ramda-arrays-and-objects-468653f24d19)
 
@@ -48,6 +54,8 @@
 
 [Functional Components with React stateless functions and Ramda (4th July 2016)](https://medium.com/@mirkomariani/functional-components-with-react-stateless-functions-and-ramda-e83e54fcd86b)
 
+[I Think Ramda Might Be Better Than Lodash or Underscore (3rd April 2016)](http://funkyjavascript.com/i-think-ramda-might-be-better-than-lodash-or-underscore/)
+
 [Using Ramda With Redux (31st February 2016)](http://randycoulman.com/blog/2016/02/16/using-ramda-with-redux/)
 
 # Ramda Libaries/Tools
@@ -68,11 +76,13 @@
 
 # Ramda Snippets / Gists
 
-[Transform props with Ramda](https://codesandbox.io/s/Oy35QN29B)
+[Transform props with Ramda](https://codesandbox.io/s/Oy35QN29B) [A. Sharif](https://twitter.com/sharifsbeat)
 
 [Transforming Deeply Nested Data](https://gist.github.com/busypeoples/b2552b78aae80664c337fe56caa18ad2)
 
-[Reselect implemented with a few Ramda functions]()
+[Using Ramda with Redux to update any Object/Map like state inside reducers.](https://codesandbox.io/s/o1D9E063) [A. Sharif](https://twitter.com/sharifsbeat)
+
+[Using ifElse for branching between 2 Components, depending on the passed in props](https://www.webpackbin.com/bins/-KoSdSQ3adsFqwZNjdb_) [A. Sharif](https://twitter.com/sharifsbeat)
 
 # General Functional Programming
 
