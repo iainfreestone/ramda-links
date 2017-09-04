@@ -22,7 +22,9 @@
 
 [Compute Even Digits — Fun with Ramda pt.1 (22nd July 2017)](https://medium.com/@tomaskonrady/compute-even-digits-fun-with-ramda-pt-1-17fd41d382d2)
 
-[Ramda — R.adjust](https://medium.com/@kyletilman/ramda-r-adjust-b69a575274fa)
+[The beauty in Partial Application, Currying, and Function Composition (18th July 2017)](https://hackernoon.com/the-beauty-in-partial-application-currying-and-function-composition-d885bdf0d574)
+
+[Ramda — R.adjust (3rtd July 2017)](https://medium.com/@kyletilman/ramda-r-adjust-b69a575274fa)
 
 [Functional Programming in JS with Ramda: Arrays and Objects (9th April 2017)](https://medium.com/@arecvlohe/functional-programming-in-js-with-ramda-arrays-and-objects-468653f24d19)
 
@@ -54,6 +56,8 @@
 
 [prettycats](https://github.com/seancannon/prettycats)
 
+[babel-plugin-ramda](https://www.npmjs.com/package/babel-plugin-ramda)
+
 # Ramda Debugging
 
 [treis](https://github.com/raine/treis)
@@ -62,9 +66,13 @@
 
 [Generates friendly trace info for pipe() / compose()](https://gist.github.com/nateabele/9c55ef3942a8b24f2140d8f05ec257bf)
 
-# Ramda Gists
+# Ramda Snippets / Gists
+
+[Transform props with Ramda](https://codesandbox.io/s/Oy35QN29B)
 
 [Transforming Deeply Nested Data](https://gist.github.com/busypeoples/b2552b78aae80664c337fe56caa18ad2)
+
+[Reselect implemented with a few Ramda functions]()
 
 # General Functional Programming
 
