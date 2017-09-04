@@ -6,6 +6,8 @@
 
 # Articles
 
+[Less Redux Boilerplate with Union Types](https://codeburst.io/less-redux-boilerplate-with-union-types-3d5fd6acb53c)
+
 [The 4R framework - 3 libraries to use in your React app (25th August 2017)](http://arianv.com/post/the-4r-framework-3-libraries-to-use-in-your-react-app/)
 
 [Use a little bit of FP (17th August 2017)](https://glebbahmutov.com/blog/use-a-little-bit-of-fp/)
@@ -83,6 +85,12 @@
 [Using Ramda with Redux to update any Object/Map like state inside reducers.](https://codesandbox.io/s/o1D9E063) [A. Sharif](https://twitter.com/sharifsbeat)
 
 [Using ifElse for branching between 2 Components, depending on the passed in props](https://www.webpackbin.com/bins/-KoSdSQ3adsFqwZNjdb_) [A. Sharif](https://twitter.com/sharifsbeat)
+
+[Lenses + React setSate for safely accessing and updating deeply nested data.](https://codesandbox.io/s/6DljK27R) [A. Sharif](https://twitter.com/sharifsbeat) [Andrew Van Slaars](https://twitter.com/avanslaars)
+
+# Applications
+
+[A calculator built with React, Redux and Ramda](https://github.com/panayi/calculator)
 
 # General Functional Programming
 
