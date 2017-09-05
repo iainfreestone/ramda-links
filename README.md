@@ -118,6 +118,14 @@
 
 [ramda-lens](https://github.com/ramda/ramda-lens)
 
+[ramdasauce](https://github.com/skellock/ramdasauce)
+
+# Ramda Type Definitions
+
+[Typescript](https://github.com/types/npm-ramda)
+
+[Flow](https://github.com/flowtype/flow-typed/tree/master/definitions/npm/ramda_v0.x.x)
+
 # Ramda Debugging tools
 
 [treis](https://github.com/raine/treis)
