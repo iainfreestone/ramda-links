@@ -120,6 +120,8 @@
 
 [ramdasauce](https://github.com/skellock/ramdasauce)
 
+[ramda-suggest](https://github.com/domtronn/ramda-suggest)
+
 # Ramda Type Definitions
 
 [Typescript](https://github.com/types/npm-ramda)
