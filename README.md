@@ -4,6 +4,8 @@
 
 [What Function Should I Use](https://github.com/ramda/ramda/wiki/What-Function-Should-I-Use%3F)
 
+[Ramda Cookbook](https://github.com/ramda/ramda/wiki/Cookbook)
+
 [Gitter Channel](https://gitter.im/ramda/ramda)
 
 # Articles
