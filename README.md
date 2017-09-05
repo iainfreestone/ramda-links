@@ -110,6 +110,8 @@
 
 [Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA&app=desktop)
 
+[Ramda Demo - Bob Pace](https://www.youtube.com/watch?v=digajAH_5IU)
+
 # Ramda Libaries/Tools
 
 [Ramda Suggest](https://github.com/domtronn/ramda-suggest)
@@ -151,6 +153,10 @@
 [Using ifElse for branching between 2 Components, depending on the passed in props](https://www.webpackbin.com/bins/-KoSdSQ3adsFqwZNjdb_) [A. Sharif](https://twitter.com/sharifsbeat)
 
 [Lenses + React setSate for safely accessing and updating deeply nested data.](https://codesandbox.io/s/6DljK27R) [A. Sharif](https://twitter.com/sharifsbeat) [Andrew Van Slaars](https://twitter.com/avanslaars)
+
+# Boilerplates / Templates
+
+[Ramda Learning Template](https://github.com/qmacro/ramda-learning-template)
 
 # Example Projects/Examples
 
