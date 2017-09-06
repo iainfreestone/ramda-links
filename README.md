@@ -12,6 +12,8 @@
 
 ## General
 
+[Monad transformers in JavaScript (28th August 2017)](https://www.linkedin.com/pulse/monad-transformers-javascript-vladim%C3%ADr-gorej)
+
 [Use a little bit of FP (17th August 2017)](https://glebbahmutov.com/blog/use-a-little-bit-of-fp/)
 
 [After Sliced Bread Came Ramda.js (Part II) (14th August 2017)](https://halistechnology.com/2017/08/14/after-sliced-bread-came-ramda-js-part-ii/)
@@ -36,9 +38,13 @@
 
 [Functional Workaholism (28th February 2017)](https://codepen.io/brekk/post/functional-workaholism) 
 
+[Ramda Adjunct (23th February 2017)](https://www.linkedin.com/pulse/ramda-adjunct-vladim%C3%ADr-gorej)
+
 [Demystifying functional programming with Ramda (15th February 2017)](https://izifortune.com/demystifying-functional-programming-with-ramda/)
 
 [Ramda.js in Real World Productions (23rd January 2017)](https://medium.com/@erwai/ramda-js-in-real-world-productions-1f088e40a560)
+
+[Composing lenses in Ramda (4th January 2017)](https://www.linkedin.com/pulse/composing-lenses-ramda-vladim%C3%ADr-gorej)
 
 [Some Functional Javascript Goodness (17th November 2016)](http://blog.howarddierking.com/2016/11/17/some-functional-javascript-goodness/)
 
@@ -57,6 +63,8 @@
 [Hands-on Functional Programming with Ramda.js (15th June 2016)](https://www.sitepoint.com/functional-programming-with-ramda/)
 
 [Thinking in Ramda: Getting Started (24th May 2016)](http://randycoulman.com/blog/2016/05/24/thinking-in-ramda-getting-started/)
+
+[Lifting functions into monadic Context in JavaScript (23rd April 2017)](https://www.linkedin.com/pulse/lifting-functions-monadic-context-javascript-vladim%C3%ADr-gorej)
 
 [Achieving point-free JavaScript with R.converge / _.over (12th April 2016)](https://medium.com/@nicoespeon/achieving-point-free-javascript-with-r-converge-overargs-94060fd0ed7a)
 
@@ -137,6 +145,8 @@
 [ramdasauce](https://github.com/skellock/ramdasauce)
 
 [ramda-suggest](https://github.com/domtronn/ramda-suggest)
+
+[ramda-adjunct](https://github.com/char0n/ramda-adjunct)
 
 # Ramda Type Definitions
 
