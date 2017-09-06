@@ -26,7 +26,7 @@
 
 [The beauty in Partial Application, Currying, and Function Composition (18th July 2017)](https://hackernoon.com/the-beauty-in-partial-application-currying-and-function-composition-d885bdf0d574)
 
-[Ramda — R.adjust (3rtd July 2017)](https://medium.com/@kyletilman/ramda-r-adjust-b69a575274fa)
+[Ramda — R.adjust (3rd July 2017)](https://medium.com/@kyletilman/ramda-r-adjust-b69a575274fa)
 
 [Ramda for reactive streams (14th April 2017)](https://glebbahmutov.com/blog/ramda-for-reactive-streams/)
 
@@ -43,6 +43,12 @@
 [Some Functional Javascript Goodness (17th November 2016)](http://blog.howarddierking.com/2016/11/17/some-functional-javascript-goodness/)
 
 [An Introduction Into Lenses In JavaScript (17th November 2016)](https://medium.com/javascript-inside/an-introduction-into-lenses-in-javascript-e494948d1ea5)
+
+[Functional Programming In JavaScript — With Practical Examples (Part 2) (16th November 2016)](https://medium.freecodecamp.org/functional-programming-in-js-with-practical-examples-part-2-429d2e8ccc9e)
+
+[Functional Programming In JavaScript — With Practical Examples (Part 1) (14th November 2016)](https://medium.freecodecamp.org/functional-programming-in-js-with-practical-examples-part-1-87c2b0dbc276)
+
+(https://medium.freecodecamp.org/functional-programming-in-js-with-practical-examples-part-1-87c2b0dbc276)
 
 [Stop Writing for-loops (compose) (16th August 2016)](https://medium.com/@wpcarro/stop-writing-for-loops-compose-7d4ac507bd36)
 
