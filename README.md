@@ -48,8 +48,6 @@
 
 [Functional Programming In JavaScript — With Practical Examples (Part 1) (14th November 2016)](https://medium.freecodecamp.org/functional-programming-in-js-with-practical-examples-part-1-87c2b0dbc276)
 
-(https://medium.freecodecamp.org/functional-programming-in-js-with-practical-examples-part-1-87c2b0dbc276)
-
 [Stop Writing for-loops (compose) (16th August 2016)](https://medium.com/@wpcarro/stop-writing-for-loops-compose-7d4ac507bd36)
 
 [Why Functional Programming? (22nd July 2016)](https://medium.com/the-functional-programmer/why-functional-programming-fp-8740b41b6f11)
