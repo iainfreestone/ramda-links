@@ -60,6 +60,8 @@
 
 [An Intro to Functional Programming Concepts in JavaScript (23rd October 2015)](https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-b0650773139c)
 
+[Functional programming with Ramda.js (5th September 2015)](https://neiro.io/2015/09/05/functional-programming-with-ramda-js.html)
+
 [Practical ramda - functional programming examples (27th August 2015)](https://macwright.org/2015/08/27/practical-ramda.html)
 
 [Refactoring Towards Functional Programming in JavaScript (14th June 2015)](http://rebootjeff.github.io/blog/2015/06/14/refactoring-towards-functional-programming-in-javascript/)
