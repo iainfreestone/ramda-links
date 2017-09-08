@@ -96,6 +96,8 @@
 
 ## Ramda with React and Redux
 
+[Better Redux Selectors with Ramda (7th September 2017)](https://medium.com/@grrttn/better-redux-selectors-with-ramda-c1ab7af3f16)
+
 [Less Redux Boilerplate with Union Types (2nd September 2017)](https://codeburst.io/less-redux-boilerplate-with-union-types-3d5fd6acb53c)
 
 [The 4R framework - 3 libraries to use in your React app (25th August 2017)](http://arianv.com/post/the-4r-framework-3-libraries-to-use-in-your-react-app/)
