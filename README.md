@@ -86,6 +86,8 @@
 
 [A Practical Ramda example: Scraping](https://james-forbes.com/?/posts/ramdaScrape)
 
+[Pagination for a web app](https://www.romanzolotarev.com/pagination/)
+
 [Practical Functional Javascript with Ramda 17th December 2014](https://developer.telerik.com/featured/practical-functional-javascript-ramda/)
 
 [Lodash to Ramda example (15th August 2014)](https://glebbahmutov.com/blog/lodash-to-ramda-example/)
