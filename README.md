@@ -84,6 +84,8 @@
 
 [Tacit Ramda (8th March 2015)](https://medium.com/@bobiblazeski/tacit-ramda-c914775ff4b1)
 
+[Curry And Compose (why you should be using something like ramda in your code) (22nd February 2015)](https://jsleao.wordpress.com/2015/02/22/curry-and-compose-why-you-should-be-using-something-like-ramda-in-your-code/)
+
 [A Practical Ramda example: Scraping](https://james-forbes.com/?/posts/ramdaScrape)
 
 [Pagination for a web app](https://www.romanzolotarev.com/pagination/)
