@@ -8,6 +8,8 @@
 
 [Gitter Channel](https://gitter.im/ramda/ramda)
 
+[Ramda REPL](http://ramdajs.com/repl/)
+
 # Articles
 
 ## General
@@ -153,6 +155,8 @@
 [ramda-suggest](https://github.com/domtronn/ramda-suggest)
 
 [ramda-adjunct](https://github.com/char0n/ramda-adjunct)
+
+[Ramda REPL (Atom)](https://atom.io/packages/ramda-repl)
 
 # Ramda Type Definitions
 
