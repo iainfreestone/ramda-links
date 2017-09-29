@@ -194,6 +194,8 @@
 
 [A calculator built with React, Redux and Ramda](https://github.com/panayi/calculator)
 
+[A Sokoban game written in the functional programming style. Makes heavy use of currying, mapping, pipes and other Ramda.js features. 100% variable free!](https://github.com/RedNifre/fpsokobanjs)
+
 # General Functional Programming
 
 [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
