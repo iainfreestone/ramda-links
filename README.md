@@ -142,6 +142,8 @@
 
 [Ramda REPL](http://ramdajs.com/repl/)
 
+[ramda-repl](https://github.com/hemanth/ramda-repl)
+
 [Ramda + Ramda Fantasy + Sanctuary REPL](https://github.com/davidchase/ramtuary)
 
 # Ramda Libaries/Tools
