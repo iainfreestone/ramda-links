@@ -8,8 +8,6 @@
 
 [Gitter Channel](https://gitter.im/ramda/ramda)
 
-[Ramda REPL](http://ramdajs.com/repl/)
-
 # Articles
 
 ## General
@@ -139,6 +137,12 @@
 # Podcasts
 
 ['Hardcore' Functional Programming using Ramda with Andrew D'Amelio (30th November 2015)](http://threedevsandamaybe.com/hardcore-functional-programming-using-ramda-with-andrew-damelio/)
+
+# REPLs
+
+[Ramda REPL](http://ramdajs.com/repl/)
+
+[Ramda + Ramda Fantasy + Sanctuary REPL](https://github.com/davidchase/ramtuary)
 
 # Ramda Libaries/Tools
 
