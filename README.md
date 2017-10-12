@@ -12,7 +12,7 @@
 
 ## General
 
-[Functional lenses in JavaScript 6th October 2017](https://www.linkedin.com/pulse/functional-lenses-javascript-vladim%C3%ADr-gorej/)
+[Functional lenses in JavaScript (6th October 2017)](https://www.linkedin.com/pulse/functional-lenses-javascript-vladim%C3%ADr-gorej/)
 
 [Code Without If or Switch statements ? Try with Ramda library! (22nd September 2017)](https://medium.com/code-without-if-statements-try-with-ramda-library/code-without-if-or-switch-statements-try-with-ramda-library-921bb7d4d60c)
 
