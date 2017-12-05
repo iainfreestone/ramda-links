@@ -110,6 +110,8 @@
 
 ## Ramda with React and Redux
 
+[React & Redux (& Ramda): Composing connectors — a powerful re-usability pattern (19th November 2017)](https://medium.com/@rubenknol/react-redux-ramda-composing-connectors-a-powerful-re-usability-pattern-c2c97e21876)
+
 [Better Redux Selectors with Ramda (7th September 2017)](https://medium.com/@grrttn/better-redux-selectors-with-ramda-c1ab7af3f16)
 
 [Less Redux Boilerplate with Union Types (2nd September 2017)](https://codeburst.io/less-redux-boilerplate-with-union-types-3d5fd6acb53c)
