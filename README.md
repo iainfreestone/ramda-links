@@ -14,6 +14,8 @@
 
 [Functional programming with Ramda (20th November 2017)](https://github.com/Bravilogy/ramda-blog/tree/master)
 
+[Functional JavaScript: Why I prefer using Ramda over Lodash or Underscore! (19th November 2017)](https://www.codementor.io/michelre/functional-javascript-why-i-prefer-using-ramda-over-lodash-or-underscore-dzovysq11)
+
 [Optimize JavaScript code for composability with Ramda.js (6th October 2017)](https://blog.bigbinary.com/2017/10/06/optimize-javascript-code-for-composability-with-ramdajs.html)
 
 [Functional lenses in JavaScript (6th October 2017)](https://www.linkedin.com/pulse/functional-lenses-javascript-vladim%C3%ADr-gorej/)
