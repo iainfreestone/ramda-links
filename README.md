@@ -22,6 +22,8 @@
 
 [Code Without If or Switch statements ? Try with Ramda library! (22nd September 2017)](https://medium.com/code-without-if-statements-try-with-ramda-library/code-without-if-or-switch-statements-try-with-ramda-library-921bb7d4d60c)
 
+[The Beauty of Javascript Composition (14th September 2017)](https://www.jeremydaly.com/beauty-javascript-composition/)
+
 [Monad transformers in JavaScript (28th August 2017)](https://www.linkedin.com/pulse/monad-transformers-javascript-vladim%C3%ADr-gorej)
 
 [Use a little bit of FP (17th August 2017)](https://glebbahmutov.com/blog/use-a-little-bit-of-fp/)
