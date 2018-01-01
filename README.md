@@ -12,6 +12,8 @@
 
 ## General
 
+[Getting started with Functional Programming and Ramda (26th December 2017)](https://www.davinryan.com/getting-started-with-functional-programming-and-ramda/)
+
 [Functional programming with Ramda (20th November 2017)](https://github.com/Bravilogy/ramda-blog/tree/master)
 
 [Functional JavaScript: Why I prefer using Ramda over Lodash or Underscore! (19th November 2017)](https://www.codementor.io/michelre/functional-javascript-why-i-prefer-using-ramda-over-lodash-or-underscore-dzovysq11)
