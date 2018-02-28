@@ -116,6 +116,8 @@
 
 ## Ramda with React and Redux
 
+[Redux + Ramda: Let’s Code a Higher-Order “Duck” (25th February 2018)](https://medium.com/@yazeedb/redux-ramda-lets-code-a-higher-order-duck-dc87021406cc)
+
 [React & Redux (& Ramda): Composing connectors — a powerful re-usability pattern (19th November 2017)](https://medium.com/@rubenknol/react-redux-ramda-composing-connectors-a-powerful-re-usability-pattern-c2c97e21876)
 
 [Better Redux Selectors with Ramda (7th September 2017)](https://medium.com/@grrttn/better-redux-selectors-with-ramda-c1ab7af3f16)
