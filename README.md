@@ -152,6 +152,8 @@
 
 [Ramda Demo - Bob Pace](https://www.youtube.com/watch?v=digajAH_5IU)
 
+[Ramda JS – An Introduction](https://www.youtube.com/watch?v=AINnOyUVEyI&feature=youtu.be)
+
 # Podcasts
 
 ['Hardcore' Functional Programming using Ramda with Andrew D'Amelio (30th November 2015)](http://threedevsandamaybe.com/hardcore-functional-programming-using-ramda-with-andrew-damelio/)
