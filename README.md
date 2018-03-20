@@ -116,6 +116,8 @@
 
 ## Ramda with React and Redux
 
+[React state management with Lenses (9th March 2018)](https://engineering.footballradar.com/react-state-management-with-lenses/)
+
 [Redux + Ramda: Let’s Code a Higher-Order “Duck” (25th February 2018)](https://medium.com/@yazeedb/redux-ramda-lets-code-a-higher-order-duck-dc87021406cc)
 
 [React & Redux (& Ramda): Composing connectors — a powerful re-usability pattern (19th November 2017)](https://medium.com/@rubenknol/react-redux-ramda-composing-connectors-a-powerful-re-usability-pattern-c2c97e21876)
