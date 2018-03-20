@@ -154,7 +154,7 @@
 
 [Ramda Demo - Bob Pace](https://www.youtube.com/watch?v=digajAH_5IU)
 
-[Ramda JS – An Introduction](https://www.youtube.com/watch?v=AINnOyUVEyI&feature=youtu.be)
+[Ramda JS – An Introduction](https://www.youtube.com/watch?v=Cltoo-NJ2JM&list=PLrhzvIcii6GMeyUfpn-o5xVCH3_UykrzI)
 
 # Podcasts
 
