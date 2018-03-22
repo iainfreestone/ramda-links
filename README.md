@@ -150,6 +150,8 @@
 
 # Videos
 
+[Ramda: A Functional Programming Library for JavaScript](https://knowthen.com/ramda/)
+
 [Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA&app=desktop)
 
 [Ramda Demo - Bob Pace](https://www.youtube.com/watch?v=digajAH_5IU)
