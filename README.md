@@ -16,6 +16,8 @@
 
 [Getting started with Functional Programming and Ramda (26th December 2017)](https://www.davinryan.com/getting-started-with-functional-programming-and-ramda/)
 
+[Easy pipeline debugging with curried console.log (20th December 2017)](https://blog.carbonfive.com/2017/12/20/easy-pipeline-debugging-with-curried-console-log/?utm_content=64850811&utm_medium)
+
 [Functional programming with Ramda (20th November 2017)](https://github.com/Bravilogy/ramda-blog/tree/master)
 
 [Functional JavaScript: Why I prefer using Ramda over Lodash or Underscore! (19th November 2017)](https://www.codementor.io/michelre/functional-javascript-why-i-prefer-using-ramda-over-lodash-or-underscore-dzovysq11)
