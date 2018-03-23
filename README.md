@@ -160,6 +160,8 @@
 
 [Ramda JS – An Introduction](https://www.youtube.com/watch?v=Cltoo-NJ2JM&list=PLrhzvIcii6GMeyUfpn-o5xVCH3_UykrzI)
 
+[Michael Gilliland - Ramda Series](https://www.youtube.com/playlist?list=PLfzJKXh_D71QiqFxLnvNk2GWWAcSYo97E)
+
 # Podcasts
 
 ['Hardcore' Functional Programming using Ramda with Andrew D'Amelio (30th November 2015)](http://threedevsandamaybe.com/hardcore-functional-programming-using-ramda-with-andrew-damelio/)
