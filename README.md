@@ -96,6 +96,8 @@
 
 [Refactoring Towards Functional Programming in JavaScript (14th June 2015)](http://rebootjeff.github.io/blog/2015/06/14/refactoring-towards-functional-programming-in-javascript/)
 
+[Breaking out of the For Loop: Pragmatic Functional Techniques in JavaScript (14th May 2015)](https://erokar.svbtle.com/functional-js)
+
 [Write Reacts components in a functional way with Ramda and PointFree (15th April 2015)](http://blog.codeprototype.com/2015/04/15/write-reacts-component-in-functional-way-with-ramda-and-pointfree-md/)
 
 [Streaming Logs with Transducers and Ramda (24th March 2015)](http://simplectic.com/blog/2015/ramda-transducers-logs/)
