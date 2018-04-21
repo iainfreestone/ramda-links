@@ -120,6 +120,8 @@
 
 ## Ramda with React and Redux
 
+[Purely Functional React Signup with Redux-Observable, Recompose, and Ramda (4th April 2018)](https://medium.com/front-end-hacking/purely-functional-react-signup-with-redux-observable-recompose-and-ramda-d37fc0424bdb)
+
 [React state management with Lenses (9th March 2018)](https://engineering.footballradar.com/react-state-management-with-lenses/)
 
 [Redux + Ramda: Let’s Code a Higher-Order “Duck” (25th February 2018)](https://medium.com/@yazeedb/redux-ramda-lets-code-a-higher-order-duck-dc87021406cc)
