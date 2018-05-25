@@ -12,6 +12,8 @@
 
 ## General
 
+[I ❤ Ramda — Partial Application with a Special Placeholder (11th May 2018)](https://hackernoon.com/i-ramda-partial-application-with-curry-e95100f7c7b1)
+
 [Ramda Chops: Function Currying (23rd January 2018)](https://robertwpearce.com/blog/ramda-chops-function-currying.html)
 
 [Getting started with Functional Programming and Ramda (26th December 2017)](https://www.davinryan.com/getting-started-with-functional-programming-and-ramda/)
