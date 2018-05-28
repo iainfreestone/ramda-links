@@ -12,6 +12,8 @@
 
 ## General
 
+[GraphQL Resolvers + Ramda = CRUD (13th May 2018)](https://medium.com/front-end-hacking/graphql-resolvers-ramda-crud-fdd08aae25a0)
+
 [I ❤ Ramda — Partial Application with a Special Placeholder (11th May 2018)](https://hackernoon.com/i-ramda-partial-application-with-curry-e95100f7c7b1)
 
 [Ramda Chops: Function Currying (23rd January 2018)](https://robertwpearce.com/blog/ramda-chops-function-currying.html)
