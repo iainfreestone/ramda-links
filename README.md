@@ -172,7 +172,7 @@
 
 # Podcasts
 
-[Functional Programming with Ramda with Christine Legge (30th August 2018)](https://devchat.tv/js-jabber/jsj-328-functional-programming-with-ramda-with-christine-legge/)
+[Functional Programming with Ramda with Christine Legge (28th August 2018)](https://devchat.tv/js-jabber/jsj-328-functional-programming-with-ramda-with-christine-legge/)
 
 ['Hardcore' Functional Programming using Ramda with Andrew D'Amelio (30th November 2015)](http://threedevsandamaybe.com/hardcore-functional-programming-using-ramda-with-andrew-damelio/)
 
