@@ -12,6 +12,10 @@
 
 ## General
 
+[A beginners guide to Ramda (Part 2) — Lenses (23rd July)](https://itnext.io/a-beginners-guide-to-ramda-part-2-lenses-62bdd3993598)
+
+[A beginners guide to Ramda (Part 1) — Currying and composition (10th July 2018)](https://medium.com/@richardthetan/a-beginners-guide-to-ramda-part-1-7e4a34972e97)
+
 [GraphQL Resolvers + Ramda = CRUD (13th May 2018)](https://medium.com/front-end-hacking/graphql-resolvers-ramda-crud-fdd08aae25a0)
 
 [I ❤ Ramda — Partial Application with a Special Placeholder (11th May 2018)](https://hackernoon.com/i-ramda-partial-application-with-curry-e95100f7c7b1)
