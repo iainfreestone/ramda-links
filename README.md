@@ -193,6 +193,8 @@
 
 # Ramda Libaries/Tools
 
+[Rambo](https://github.com/bahmutov/rambo)
+
 [Ramda Suggest](https://github.com/domtronn/ramda-suggest)
 
 [prettycats](https://github.com/seancannon/prettycats)
