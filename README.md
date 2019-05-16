@@ -12,6 +12,8 @@
 
 ## General
 
+[Why are we not afraid to think functionally with Ramda? (28th November 2018)](https://blog.usejournal.com/why-are-we-not-afraid-to-think-functionally-with-ramda-fb17f733fde8)
+
 [Recursive Rolling Calculations with Ramda (27th September 2018)](https://towardsdatascience.com/recursive-rolling-calculations-with-ramda-adf494958a37)
 
 [A beginners guide to Ramda (Part 2) — Lenses (23rd July 2018)](https://itnext.io/a-beginners-guide-to-ramda-part-2-lenses-62bdd3993598)
