@@ -132,6 +132,8 @@
 
 ## Ramda with React and Redux
 
+[Easily Integrate Ramda into Your React Workflow (14th September 2019)](https://dev.to/hint/easily-integrate-ramda-into-your-react-workflow-3kh4)
+
 [Purely Functional React Signup with Redux-Observable, Recompose, and Ramda (4th April 2018)](https://medium.com/front-end-hacking/purely-functional-react-signup-with-redux-observable-recompose-and-ramda-d37fc0424bdb)
 
 [React state management with Lenses (9th March 2018)](https://engineering.footballradar.com/react-state-management-with-lenses/)
