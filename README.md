@@ -11,6 +11,7 @@
 # Articles
 
 ## General
+[The Most Detailed Tutorial For Ramda Function Library (31st December 2018)](https://www.tutorialdocs.com/article/ramda-functions.html)
 
 [Why are we not afraid to think functionally with Ramda? (28th November 2018)](https://blog.usejournal.com/why-are-we-not-afraid-to-think-functionally-with-ramda-fb17f733fde8)
 
