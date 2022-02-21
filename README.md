@@ -220,6 +220,8 @@
 
 [Ramda REPL (Atom)](https://atom.io/packages/ramda-repl)
 
+[Rambdax](https://github.com/selfrefactor/rambdax)
+
 # Ramda Type Definitions
 
 [Typescript](https://github.com/types/npm-ramda)
